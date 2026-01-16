@@ -1,4 +1,4 @@
-## Hi there 👋
+I am Tony, a detail-oriented cybersecurity professional with a strong interest in Security Operations and threat monitoring. Possesses hands-on experience with security labs and simulated environments using Kali Linux, TryHackMe, and Hack The Box, with foundational knowledge of network traffic analysis, security incidents, and risk assessment. Experienced in security monitoring, reporting, and access control through prior roles in physical and CCTV security operations. A strong communicator and analytical thinker with proven leadership experience and a growing focus on defensive security, incident analysis, and continuous learning within SOC environments.
 
 <!--
 **Tonicempire/Tonicempire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
