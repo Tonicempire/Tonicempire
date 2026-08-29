@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Tonicempire 👋
+### 🛡️ Cybersecurity Professional & Automation Enthusiast
+
+- 🎓 **Recent Achievement:** Completed the Google Cybersecurity Professional Certificate.
+- 🐍 **Focus:** Writing Python scripts for security log parsing and automated network filtering.
+- ⚙️ **Tools & Tech:** Python, Linux, Wireshark, SQL, Regex, Git.
+
+## 📁 Core Projects
+- [Google Cybersecurity Labs](./google-cybersecurity-certificate-portfolio) - My hands-on Python scripts for access control lists and log filtering.
+
 
 <!--
 **Tonicempire/Tonicempire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
